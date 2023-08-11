@@ -1,2 +1,2 @@
-def main(a):
-    return a>2 and a<=3
+def main(a,b):
+    return a>2 and b<=3

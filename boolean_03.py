@@ -1,2 +1,5 @@
 def main(a):
-    return a%2==0
+    return a % 2 == 0
+
+
+print(main())

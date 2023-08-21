@@ -2,4 +2,4 @@ def main(a, b):
     return a == b
 
 
-print(main(int(input())))
+print(main(int(input()), int(input())))

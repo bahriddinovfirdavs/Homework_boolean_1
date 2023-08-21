@@ -1,2 +1,5 @@
-def main(a,b):
-    return a==b
+def main(a, b):
+    return a == b
+
+
+print(main(int(input())))

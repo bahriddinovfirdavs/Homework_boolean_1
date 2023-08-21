@@ -1,2 +1,5 @@
 def main(a):
-    return a>0
+    return a > 0
+
+
+print(main())

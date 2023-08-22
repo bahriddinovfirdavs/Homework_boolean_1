@@ -1,5 +1,5 @@
 def main(a, b):
-    return a >= 0 and b >= 0 and a % 2 == 0 and b % 2 == 0
+    return a % 2 == 1 and b % 2 == 1
 
 
 print(main(int(input()), int(input())))
